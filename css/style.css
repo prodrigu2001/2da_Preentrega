@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'Potta One', cursive;
+    
+}
+.nav-item{
+    padding: 0px 15px;
+    font-size: 20px;
+}
+
+.banner-image{
+    background-image: url(../Imagenes/Gordito.jpg);
+    height: 150vh;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo1{
+    color: rgb(142, 142, 145);
+}
+
+.titulo2{
+    color: rgb(142, 142, 145);
+}
+
+.titulo3{
+    color: rgb(142, 142, 145);
+}
+
+.titulo4{
+    color: black
+}
+
+.banner-image-plan{
+    background-image: url(../Imagenes/plan_1.jpg);
+    height: 150vh;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-image-grupo{
+    background-image: url(../Imagenes/grupo_1.jpg);
+    height: 150vh;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-image-menu{
+    background-image: url(../Imagenes/menu_1.jpg);
+    height: 150vh;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu{
+    color: rgb(142, 142, 145);
+}
+
+.banner-image-contactanos{
+    background-image: url(../Imagenes/contactanos_1.jpg);
+    height: 150vh;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
